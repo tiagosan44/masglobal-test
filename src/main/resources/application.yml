@@ -1,0 +1,4 @@
+masglobal-config:
+  apiURL: http://masglobaltestapi.azurewebsites.net/api
+  employeesUri: /employees
+
